@@ -50,7 +50,7 @@ def run():
 
 g = 0
 b = 0
-while True:
+while (g < 10):
 	result = run()
 	if result == 200:
 		g = g + 1
