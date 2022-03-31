@@ -1,4 +1,4 @@
-name: 'Getting WARP+ Traffic'
+name: 'Getting WARP+ Traffic -1'
 
 on:
   workflow_dispatch:
